@@ -7,7 +7,10 @@ A simple password generator written on C++
 - Includes letters, numbers, and symbols
 
 ## example of output
+```
 ==================================
 Service: ...
 login: ...
 Password: 3nMSGrE7HqaXg4TYFJtU5fjZ
+```
+
